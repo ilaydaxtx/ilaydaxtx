@@ -8,7 +8,7 @@
 <div align="center">
    - 🌱 I’m currently learning Node.js
   <br/>
-   - 🌏 Ask me about: <b> Python, JavaScript, Flutter... </b>
+   - 🌏 Ask me about: <b> Python, Flutter... </b>
 </div>
 <br/>
 <div align="center">
