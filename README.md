@@ -5,11 +5,7 @@
 
 <h3 align="center">A passionate Computer Engineer</h3>
 <br/>
-<div align="center">
-   - 🌱 I’m currently learning Node.js
-  <br/>
-   - 🌏 Ask me about: <b> Python, Flutter... </b>
-</div>
+
 <br/>
 <div align="center">
   <h2>Contact me</h2>
