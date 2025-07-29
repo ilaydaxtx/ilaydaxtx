@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E38ADE&center=true&random=false&width=435&lines=Hi+there%2C+I'm+%C4%B0layda+%F0%9F%A4%97" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate Computer Engineer</h3>
+<h3 align="center">Computer Engineer</h3>
 <br/>
 
 <br/>
